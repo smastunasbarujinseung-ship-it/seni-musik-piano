@@ -1,0 +1,6 @@
+{
+  "name": "Piano Ceria SD TERAMIA",
+  "description": "Aplikasi Pembelajaran Interaktif dan Game Piano Digital SD TERAMIA - Seni Musik Kelas V SD",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
